@@ -127,5 +127,5 @@ Contains:
 ---
 
 ## ⭐ Final Note  
-If you found this project insightful, ⭐ the repository and connect with me on [LinkedIn](https://www.linkedin.com/in/kasif-ahmed2704/).  
+If you found this project insightful, ⭐ the repository and connect with me on [LinkedIn](https://www.linkedin.com/in/ksaahil/).  
 I’m open to discussions, feedback, and collaboration opportunities.  
